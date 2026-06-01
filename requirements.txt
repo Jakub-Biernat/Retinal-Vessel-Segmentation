@@ -1,0 +1,6 @@
+numpy
+ipython
+matplotlib
+ipywidgets
+scikit-image
+imagecodecs
