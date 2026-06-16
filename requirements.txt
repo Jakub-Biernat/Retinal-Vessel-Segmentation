@@ -1,3 +1,4 @@
+tensorflow
 imbalanced-learn
 scikit-learn
 numpy
