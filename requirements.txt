@@ -7,3 +7,5 @@ matplotlib
 ipywidgets
 scikit-image
 imagecodecs
+joblib
+opencv-python
